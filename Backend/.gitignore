@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Backend
+/GrooveMessengerAPI/bin/Debug/netcoreapp2.2
+/GrooveMessengerAPI/obj
+/GrooveMessengerDAL/bin/Debug/netcoreapp2.2
+/GrooveMessengerAPI/logs
+<<<<<<< HEAD
+/GrooveMessengerDAL/obj
+=======
+/GrooveMessengerDAL/obj
+>>>>>>> e4504bd5a9fbab5d60264eb967c20d11c911d6e3
